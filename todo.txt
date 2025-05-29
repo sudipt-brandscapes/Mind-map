@@ -1,0 +1,5 @@
+visualization + is there 
+mindmap is not proper 
+llama parse must be in modal in setting and white  dark and system setting
+question is not generating properly 
+progress bar 
